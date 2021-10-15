@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "587441864428",
+    "firebase_url": "https://sinavahazirlik-2310-default-rtdb.firebaseio.com",
+    "project_id": "sinavahazirlik-2310",
+    "storage_bucket": "sinavahazirlik-2310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587441864428:android:ab487f13a628f54e5dafc9",
+        "android_client_info": {
+          "package_name": "com.sinavahazirlik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587441864428-56737vghti7hk3icsa3t6dmo3qao3ic7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb5hDJK8hgE_ATi7SEnCok6kkEi1Jwr_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587441864428-56737vghti7hk3icsa3t6dmo3qao3ic7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
